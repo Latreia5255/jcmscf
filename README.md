@@ -1,1 +1,2 @@
-# jcmscf
+# downsizing.life
+Code repository.
